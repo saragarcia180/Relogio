@@ -1,0 +1,28 @@
+body{
+    background: rgb(70,140,236);/*Cor de fundo */
+    font: normal 15pt Arial;/*Fonte do texto */
+
+}
+header{
+    color: white;/*Cor do texto */
+    text-align: center;/*Centraliza o texto */
+}
+section{
+    background-color: white;/*Cor de fundo */
+    border-radius: 10px;/*Borda arredondada */
+    padding: 15px;/*Espaçamento interno */
+    width: 500px;/*Largura */
+    margin: auto;/*Centraliza */
+    box-shadow:5px 5px 5px rgba(0, 0, 0, 0.418);/*Sombra */
+}
+footer{
+    color: white;/*Cor do texto */
+    text-align: center;/*Centraliza o texto */
+    font-style: italic;/*Itálico */
+}
+div{
+    text-align: center;/*Centraliza o texto */
+    
+    padding: 8px;
+
+}
